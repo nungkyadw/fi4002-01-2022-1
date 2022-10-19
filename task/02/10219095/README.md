@@ -7,8 +7,7 @@ Nungky Andriani Dinar Widyastuti
 
 
 ## materi paling menarik
-+ Tuliskan materi yang paling menarik yang telah diberikan dan jelaskan mengapa menarik.
-
++ Materi mengenai metode Monte Carlo, 
 
 ## materi paling membosankan
 + Tuliskan materi yang telah diberikan yang paling membosankan dan jelaskan alasannya.
